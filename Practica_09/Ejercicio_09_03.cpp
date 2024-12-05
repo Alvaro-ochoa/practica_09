@@ -1,5 +1,5 @@
 /*Materia: Programación I, Paralelo 1
-Autor: Carlos Riveros Lopez.
+Autor: Alvaro Alejandro Ochoa Segales.
 Fecha creación: 04/12/2024
 Número de ejercicio: 3
 Problema planteado:  Crea una función recursiva que reciba una cadena y devuelva la misma
